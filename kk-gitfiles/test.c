@@ -23,7 +23,7 @@ int main()
             break;
       }
       if ( c == i )
-      {
+      {  
          printf("%d\n",i);
          count++;
       }
@@ -31,4 +31,4 @@ int main()
    }
  
    return 0;
-}
+}/*my comment*/
